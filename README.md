@@ -1,4 +1,4 @@
 #Simple File Read/Write using Assembly Language
 
 
-(/FileReadWrite.png)
+![Result](/FileReadWrite.png)
